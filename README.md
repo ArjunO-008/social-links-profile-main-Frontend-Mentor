@@ -27,11 +27,10 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me](https://your-solution-url.com)
-- Live Site URL: [Click Me](https://your-live-site-url.com)
+- Solution URL: [Click Me] (https://your-solution-url.com](https://www.frontendmentor.io/solutions/social-links-profile-main-frontend-mentor-XCt8p1DtwI)
+- Live Site URL: [Click Me](https://your-live-site-url.com](https://arjuno-008.github.io/social-links-profile-main-Frontend-Mentor/)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ArjunO-008)
  
