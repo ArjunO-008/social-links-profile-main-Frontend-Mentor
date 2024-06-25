@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me] (https://your-solution-url.com](https://www.frontendmentor.io/solutions/social-links-profile-main-frontend-mentor-XCt8p1DtwI)
-- Live Site URL: [Click Me](https://your-live-site-url.com](https://arjuno-008.github.io/social-links-profile-main-Frontend-Mentor/)
+- Solution URL: [Click Me](https://www.frontendmentor.io/solutions/social-links-profile-main-frontend-mentor-XCt8p1DtwI)
+- Live Site URL: [Click Me](https://arjuno-008.github.io/social-links-profile-main-Frontend-Mentor/)
 
 ## Author
 
